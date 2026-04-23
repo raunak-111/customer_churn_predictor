@@ -1,0 +1,11 @@
+Feature,Importance
+cat__Contract_Two year,1.3300861775246386
+num__tenure,1.2424601468626932
+cat__InternetService_Fiber optic,1.1989686644521387
+cat__Contract_One year,0.6878213715378072
+num__TotalCharges,0.513306900405375
+cat__PhoneService_Yes,0.5017973182056561
+num__MonthlyCharges,0.48445935245781696
+cat__StreamingTV_Yes,0.3831657518274298
+cat__StreamingMovies_Yes,0.38255889998100506
+cat__PaymentMethod_Electronic check,0.38111782367623986

@@ -1,0 +1,14 @@
+{
+  "rows":7043,
+  "columns":21,
+  "missing_total":0,
+  "totalcharges_null_after_convert":11,
+  "churn_no":5174,
+  "churn_yes":1869,
+  "churn_no_pct":73.46,
+  "churn_yes_pct":26.54,
+  "train_rows":5634,
+  "test_rows":1409,
+  "feature_count_after_encoding":30,
+  "best_model":"Logistic Regression"
+}
